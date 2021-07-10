@@ -1,7 +1,8 @@
-# TensorFlow
-Scripts utilizados para estudos de Machine e Deep Learning usando:
+# Data Science
+Scripts utilizados para estudos de Data Science usando:
   - TensorFlow
   - Keras
   - Pandas
   - Numpy
   - Sklearn e entre outras
+  - Analise de Dados
